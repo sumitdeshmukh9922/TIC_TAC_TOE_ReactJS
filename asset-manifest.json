@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/TIC_TAC_TOE_ReactJS/static/css/main.1c69cb1a.chunk.css",
-    "main.js": "/TIC_TAC_TOE_ReactJS/static/js/main.6d9e7e9e.chunk.js",
-    "main.js.map": "/TIC_TAC_TOE_ReactJS/static/js/main.6d9e7e9e.chunk.js.map",
-    "runtime-main.js": "/TIC_TAC_TOE_ReactJS/static/js/runtime-main.e9b85164.js",
-    "runtime-main.js.map": "/TIC_TAC_TOE_ReactJS/static/js/runtime-main.e9b85164.js.map",
-    "static/js/2.b45545ca.chunk.js": "/TIC_TAC_TOE_ReactJS/static/js/2.b45545ca.chunk.js",
-    "static/js/2.b45545ca.chunk.js.map": "/TIC_TAC_TOE_ReactJS/static/js/2.b45545ca.chunk.js.map",
-    "static/js/3.33ab2a00.chunk.js": "/TIC_TAC_TOE_ReactJS/static/js/3.33ab2a00.chunk.js",
-    "static/js/3.33ab2a00.chunk.js.map": "/TIC_TAC_TOE_ReactJS/static/js/3.33ab2a00.chunk.js.map",
+    "main.js": "/TIC_TAC_TOE_ReactJS/static/js/main.85f96170.chunk.js",
+    "main.js.map": "/TIC_TAC_TOE_ReactJS/static/js/main.85f96170.chunk.js.map",
+    "runtime-main.js": "/TIC_TAC_TOE_ReactJS/static/js/runtime-main.38d24969.js",
+    "runtime-main.js.map": "/TIC_TAC_TOE_ReactJS/static/js/runtime-main.38d24969.js.map",
+    "static/css/2.03991310.chunk.css": "/TIC_TAC_TOE_ReactJS/static/css/2.03991310.chunk.css",
+    "static/js/2.861b5180.chunk.js": "/TIC_TAC_TOE_ReactJS/static/js/2.861b5180.chunk.js",
+    "static/js/2.861b5180.chunk.js.map": "/TIC_TAC_TOE_ReactJS/static/js/2.861b5180.chunk.js.map",
+    "static/js/3.070cda5e.chunk.js": "/TIC_TAC_TOE_ReactJS/static/js/3.070cda5e.chunk.js",
+    "static/js/3.070cda5e.chunk.js.map": "/TIC_TAC_TOE_ReactJS/static/js/3.070cda5e.chunk.js.map",
     "index.html": "/TIC_TAC_TOE_ReactJS/index.html",
+    "static/css/2.03991310.chunk.css.map": "/TIC_TAC_TOE_ReactJS/static/css/2.03991310.chunk.css.map",
     "static/css/main.1c69cb1a.chunk.css.map": "/TIC_TAC_TOE_ReactJS/static/css/main.1c69cb1a.chunk.css.map",
-    "static/js/2.b45545ca.chunk.js.LICENSE.txt": "/TIC_TAC_TOE_ReactJS/static/js/2.b45545ca.chunk.js.LICENSE.txt",
+    "static/js/2.861b5180.chunk.js.LICENSE.txt": "/TIC_TAC_TOE_ReactJS/static/js/2.861b5180.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/TIC_TAC_TOE_ReactJS/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9b85164.js",
-    "static/js/2.b45545ca.chunk.js",
+    "static/js/runtime-main.38d24969.js",
+    "static/css/2.03991310.chunk.css",
+    "static/js/2.861b5180.chunk.js",
     "static/css/main.1c69cb1a.chunk.css",
-    "static/js/main.6d9e7e9e.chunk.js"
+    "static/js/main.85f96170.chunk.js"
   ]
 }
